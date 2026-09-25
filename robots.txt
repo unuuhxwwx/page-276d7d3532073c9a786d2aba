@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.v2rayxz.com/sitemap.xml
